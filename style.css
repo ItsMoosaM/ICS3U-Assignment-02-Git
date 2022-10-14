@@ -138,7 +138,7 @@ li a {
   color: #d4af37;
   text-align: center;
   padding: 24px 50px;
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 li a:hover:not(.selected) {
@@ -148,6 +148,10 @@ li a:hover:not(.selected) {
 
 .selected {
   background-color: #d4af372a;
+  text-decoration: none;
+}
+
+.unityPageLink{
   text-decoration: underline;
 }
 

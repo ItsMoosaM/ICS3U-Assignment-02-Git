@@ -152,7 +152,7 @@ li a:hover:not(.selected) {
 }
 
 .unityPageLink{
-  text-decoration: underline;
+  text-decoration: none; 
 }
 
 .unityPageLink:hover{

@@ -167,6 +167,11 @@ li a:hover:not(.selected) {
   text-decoration: overline underline;
 }
 
+.linkImg:hover{
+  transform: scale(1.05);
+  transition: all linear 0.1s;
+}
+
 /*h2 {
   margin: auto;
   border-style: solid;
